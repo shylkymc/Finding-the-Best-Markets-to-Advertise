@@ -6,4 +6,4 @@ I used matplotlib to visualize the interest of roles. I detected extreme outlier
 
 ## Conclusion
 
-The USA has the highest potantial for advertisement. Most of the participants prefer "Web or Mobile Development".
+The USA has the highest potantial for advertisement. Most of the participants prefer "Web or Mobile Development". Spending volume change country to country. People tend to pay 93 dollars in the Canada, 65 dollars in India, 45 dollars in United Kingdom, and 143 dollars in United States of America. 
